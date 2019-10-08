@@ -11,6 +11,8 @@
 ## Android
 [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
+[ShadowsocksR for Android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
+
 ## iOS
 iOS 使用shadowrocket。
 
