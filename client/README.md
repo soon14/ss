@@ -5,6 +5,8 @@
 ## MacOS
 [ShadowsocksX-NG for MacOS](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
+[ClashX for MacOS](./ClashX.dmg)
+
 ## Windows
 [Shadowsocks for Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
@@ -13,6 +15,7 @@
 
 [ShadowsocksR for Android](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 
+[v2rayNG for Android](./v2rayNG.apk)
 ## iOS
 iOS 使用shadowrocket。
 
