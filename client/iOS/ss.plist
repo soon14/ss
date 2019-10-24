@@ -15,15 +15,15 @@
         <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.sunli.test</string>
+                <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
-                <string>1.1.0</string>
+                <string>501</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
                 <string>1.1版本发布</string>
                 <key>title</key>
-                <string>testDemo</string>
+                <string>宇宙无敌ssr</string>
             </dict>
         </dict>
     </array>
